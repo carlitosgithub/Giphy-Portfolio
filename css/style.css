@@ -1,0 +1,20 @@
+body {
+	background-color: aliceblue;
+}
+.animal {
+	float: left;
+}
+#cartoon-form {
+	background: #008080;
+	color: whitesmoke;
+	font-size: 20px;
+	margin: 0;
+}
+.panel-heading{
+	margin: 0;
+}
+button {
+	margin: 1px;
+	background: #008080;
+	color: whitesmoke;
+}
